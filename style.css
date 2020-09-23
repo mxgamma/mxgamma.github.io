@@ -6,3 +6,7 @@ body {
 .popover{
     max-width: 800px; /* Max Width of the popover (depending on the container!) */
 }
+
+#wTableB{
+    background-color: #fffbd6;
+}
