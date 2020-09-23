@@ -145,7 +145,7 @@
                     cellImage.setAttribute("src","images/"+rowData[3]+"Icon.png")
                     cell.appendChild(cellImage);
                     var cellText = rowData[0];
-                    cell.append(cellText);
+                    cell.append(document.createTextNode(cellText));
                     row.appendChild(cell);
                     
                     cell = document.createElement('td');
