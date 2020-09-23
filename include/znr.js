@@ -133,3 +133,10 @@ var znrCards = new Array()
         "https://media.wizards.com/2020/znr/en_BmUYlUTeUr.png",
         "r"
     )
+    znrCards[2] =  new Array(
+        "w",
+        "Emeria's Call",
+        "S",
+        "https://media.wizards.com/2020/znr/en_UYhm8ThgSr.png",
+        "m"
+    )
