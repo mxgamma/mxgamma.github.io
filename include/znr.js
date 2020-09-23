@@ -119,24 +119,10 @@ var goldCard = new Array()
     )
 
 var znrCards = new Array()
-    znrCards[0] =  new Array(
-        "b",
-        "Inscription of Insight",
-        "B",
-        "https://media.wizards.com/2020/znr/en_vrnj7b21G7.png",
-        "r"
-    )
-    znrCards[1] =  new Array(
-        "g",
-        "Thieving Skydiver",
-        "B+",
-        "https://media.wizards.com/2020/znr/en_BmUYlUTeUr.png",
-        "r"
-    )
-    znrCards[2] =  new Array(
-        "w",
-        "Emeria's Call",
-        "S",
-        "https://media.wizards.com/2020/znr/en_UYhm8ThgSr.png",
-        "m"
-    )
+znrCards[0] =  new Array(
+    "w",
+    "Allied Assault",
+    "u",
+    "https://media.wizards.com/2020/znr/en_WA2BW2iT67.png",
+    70
+)
