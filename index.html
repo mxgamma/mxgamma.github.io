@@ -147,6 +147,12 @@
                                 cellText.setAttribute("src","images/"+rowData[3]+"Icon.png")
                                 cell.appendChild(cellText);
                             row.appendChild(cell);
+
+                        cell = document.createElement('td');
+                            cellImage = document.createElement('img');
+                                cellImage.setAttribute("src","images/"+rowData[3]+"Icon.png")
+                                cell.appendChild(cellImage);
+                            row.appendChild(cell);
                         tableBody.appendChild(row);
                     });
             }
