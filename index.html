@@ -145,8 +145,7 @@
                             var cellImage = document.createElement('img');
                                 cellImage.setAttribute("src","images/"+rowData[3]+"Icon.png")
                                 cell.appendChild(cellImage);
-                            var cellText = document.createElement('img');
-                                cellText.setAttribute("src","images/"+rowData[3]+"Icon.png")
+                            var cellText = document.createTextNode("Prueba");
                                 cell.appendChild(cellText);
                             row.appendChild(cell);
 
