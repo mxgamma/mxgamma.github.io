@@ -11,10 +11,26 @@ td {
     max-width: 800px; /* Max Width of the popover (depending on the container!) */
 }
 
-#wTableB{
-    background-color: #fffbd6;
+#bTableB{
+    background-color: #c8bfbc;
+}
+
+#cTableB{
+    background-color: #e1cb88;
 }
 
 #gTableB{
-    background-color: #e1cb88;
+    background-color: #99d4af;
+}
+
+#rTableB{
+    background-color: #fba990;
+}
+
+#uTableB{
+    background-color: #a7dff8;
+}
+
+#wTableB{
+    background-color: #fffbd6;
 }
