@@ -4,6 +4,9 @@ body {
 
 td {
     font-size: 0.75em;
+}
+
+tr {
     height: 20px;
 }
 
