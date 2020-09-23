@@ -156,6 +156,32 @@
             createTable(blueCard,"uTableB");
         </script>
 
+        <script>
+            function createTableB(tableData) {
+                tableData.forEach(function(rowData) {
+                    var tableColor = tableData[0];
+                    var tableBody = document.getElementById(tableColor+"TableB");
+                    var row = document.createElement('tr');
+                        row.setAttribute("data-toggle","popover");
+                        row.setAttribute("data-content","<img src='"+rowData[3]+"' />");
+                        var cell = document.createElement('td');
+                            var cardImage = document.createElement('img');
+                                cardImage.setAttribute("src","images/"+rowData[4]+"Icon.png")
+                                cell.appendChild(cardImage);
+                            var cardName = document.createTextNode(" "+rowData[1]);
+                                cell.appendChild(cardName);
+                            row.appendChild(cell);
+
+                        cell = document.createElement('td');
+                            cardScore = document.createTextNode(rowData[2]);
+                                cell.appendChild(cardScore);
+                            row.appendChild(cell);
+                        tableBody.appendChild(row);
+                    });
+            }
+            createTableB(znrCards);
+        </script>
+
 
 
 
