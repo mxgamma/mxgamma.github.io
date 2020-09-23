@@ -126,3 +126,17 @@ znrCards[0] =  new Array(
     "https://media.wizards.com/2020/znr/en_WA2BW2iT67.png",
     70
 )
+znrCards[1] =  new Array(
+    "w",
+    "Angel of Destiny",
+    "m",
+    "https://media.wizards.com/2020/znr/en_jHTW07aYxP.png",
+    90
+)
+znrCards[2] =  new Array(
+    "w",
+    "Angelheart Protector",
+    "c",
+    "https://media.wizards.com/2020/znr/en_vNUejQnYwk.png",
+    70
+)
