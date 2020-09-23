@@ -144,15 +144,11 @@
                     var cellImage = document.createElement('img');
                     cellImage.setAttribute("src","images/"+rowData[3]+"Icon.png")
                     cell.appendChild(cellImage);
-                    var cellText = rowData[0];
-                    cell.append(document.createTextNode(cellText));
-                    row.appendChild(cell);
-                    
-                    cell = document.createElement('td');
-                    cellText = rowData[1];
-                    cell.appendChild(cellText);
-                    row.appendChild(cell);
 
+                    var cellText = document.createElement('img');
+                    cellText.setAttribute("src","images/"+rowData[3]+"Icon.png")
+                    row.appendChild(cellText);
+                    
                     tableBody.appendChild(row);
 
                 });
