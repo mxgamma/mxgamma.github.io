@@ -4,6 +4,7 @@ body {
 
 td {
     font-size: 0.75em;
+    height: 20px;
 }
 
 /* The max width is dependant on the container (more info below) */
