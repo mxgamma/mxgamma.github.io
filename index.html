@@ -164,14 +164,14 @@
                         row.setAttribute("data-content","<img src='"+rowData[3]+"' />");
                         var cell = document.createElement('td');
                             var cardImage = document.createElement('img');
-                                cardImage.setAttribute("src","images/"+rowData[4]+"Icon.png")
+                                cardImage.setAttribute("src","images/"+rowData[2]+"Icon.png")
                                 cell.appendChild(cardImage);
                             var cardName = document.createTextNode(" "+rowData[1]);
                                 cell.appendChild(cardName);
                             row.appendChild(cell);
 
                         cell = document.createElement('td');
-                            cardScore = document.createTextNode(rowData[2]);
+                            cardScore = document.createTextNode(rowData[4]);
                                 cell.appendChild(cardScore);
                             row.appendChild(cell);
                         tableBody.appendChild(row);
