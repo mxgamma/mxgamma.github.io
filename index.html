@@ -139,11 +139,11 @@
                 var tableBody = document.getElementById(tableColor);
                 tableData.forEach(function(rowData) {
                     var row = document.createElement('tr');
-                    rowData.forEach(function(cellData) {
-                        var cell = document.createElement('td');
-                        cell.appendChild(document.createTextNode(cellData));
-                        row.appendChild(cell);
-                    });
+
+                    cell = document.createElement('td');
+                    cell.appendChild(document.createTextNode("<img src='images/'"+rowData[3]+"Icon.png />"))
+                    row.appendChild(cell);
+                    
                     tableBody.appendChild(row);
                 });
             }
