@@ -4,5 +4,5 @@ body {
 
 /* The max width is dependant on the container (more info below) */
 .popover{
-    width: 500px; /* Max Width of the popover (depending on the container!) */
+    max-width: 800px; /* Max Width of the popover (depending on the container!) */
 }
