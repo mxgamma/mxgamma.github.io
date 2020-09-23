@@ -139,6 +139,8 @@
                 var tableBody = document.getElementById(tableColor);
                     tableData.forEach(function(rowData) {
                     var row = document.createElement('tr');
+                        row.setAttribute("data-toggle","popover");
+                        row.setAttribute("data-content","<img src='"+rowData[2]+"' />");
                         var cell = document.createElement('td');
                             var cellImage = document.createElement('img');
                                 cellImage.setAttribute("src","images/"+rowData[3]+"Icon.png")
