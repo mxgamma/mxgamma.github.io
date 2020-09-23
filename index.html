@@ -142,17 +142,16 @@
                         row.setAttribute("data-toggle","popover");
                         row.setAttribute("data-content","<img src='"+rowData[2]+"' />");
                         var cell = document.createElement('td');
-                            var cellImage = document.createElement('img');
-                                cellImage.setAttribute("src","images/"+rowData[3]+"Icon.png")
-                                cell.appendChild(cellImage);
-                            var cellText = document.createTextNode("Prueba");
-                                cell.appendChild(cellText);
+                            var cardImage = document.createElement('img');
+                                cardImage.setAttribute("src","images/"+rowData[3]+"Icon.png")
+                                cell.appendChild(cardImage);
+                            var cardName = document.createTextNode(" "+rowData[0]);
+                                cell.appendChild(cardName);
                             row.appendChild(cell);
 
                         cell = document.createElement('td');
-                            cellImage = document.createElement('img');
-                                cellImage.setAttribute("src","images/"+rowData[3]+"Icon.png")
-                                cell.appendChild(cellImage);
+                            cardScore = document.createTextNode(rowData[1]);
+                                cell.appendChild(cardScore);
                             row.appendChild(cell);
                         tableBody.appendChild(row);
                     });
