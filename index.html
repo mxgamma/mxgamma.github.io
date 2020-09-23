@@ -157,8 +157,8 @@
         <script>
             function createTableB(tableData) {
                 tableData.forEach(function(rowData) {
-                    var tableColor = tableData[0];
-                    var tableBody = document.getElementById(tableColor+"TableB");
+                    var cardColor = rowData[0];
+                    var tableBody = document.getElementById(cardColor+"TableB");
                     var row = document.createElement('tr');
                         row.setAttribute("data-toggle","popover");
                         row.setAttribute("data-content","<img src='"+rowData[3]+"' />");
