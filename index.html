@@ -8,6 +8,24 @@
     </head>
     <body>
         <script src="include/znr.js"></script>
+        <script>
+            function createTable(tableData) {
+                var table = document.createElement('table');
+                var tableBody = document.createElement('tbody');
+                tableData.forEach(function(rowData) {
+                    var row = document.createElement('tr');
+                    rowData.forEach(function(cellData) {
+                        var cell = document.createElement('td');
+                        cell.appendChild(document.createTextNode(cellData));
+                        row.appendChild(cell);
+                    });
+                    tableBody.appendChild(row);
+                });
+                table.appendChild(tableBody);
+                document.body.appendChild(table);
+            }
+        </script>
+
         <div class="container-fluid bg-dark text-white">
             Zendikar Rising Limited Tier List
         </div>
@@ -29,6 +47,7 @@
                         <tbody id="wTableB">
                             <!-- Emeria's Call --><tr data-toggle="popover" data-content="<img src='https://media.wizards.com/2020/znr/en_UYhm8ThgSr.png' />"><td><img src="images/mIcon.png"/> Emeria's Call</td><td>S</td></tr>
                             <!-- Maul of the Skyclaves --><tr data-toggle="popover" data-content="<img src='https://media.wizards.com/2020/znr/en_KbX8BEmlPq.png' />"><td><img src="images/rIcon.png"/> Maul of the Skyclaves</td><td>A+</td></tr>
+                            <!-- Jace, Mirror Mage --><tr data-toggle="popover" data-content="<img src='https://media.wizards.com/2020/znr/en_qB0uNPB5i5.png' />"><td><img src="images/mIcon.png"/> Jace, Mirror Mage</td><td>A-</td></tr>
                         </tbody>
                     </table>
                 </div>
@@ -44,7 +63,6 @@
                         </thead>
                         <!-- Blue Cards -->
                         <tbody id="uTableB">
-                            <!-- Jace, Mirror Mage --><tr data-toggle="popover" data-content="<img src='https://media.wizards.com/2020/znr/en_qB0uNPB5i5.png' />"><td><img src="images/mIcon.png"/> Jace, Mirror Mage</td><td>A-</td></tr>
                         </tbody>
                     </table>
                 </div>
@@ -117,7 +135,7 @@
             </div>
         </div>
     <p>Hosted with GitHub Pages. v.0.1-HTML</p>
-    
+    createTable([["row 1, cell 1", "row 1, cell 2"], ["row 2, cell 1", "row 2, cell 2"]]);
     <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -127,6 +145,11 @@
             $(function () {
                 $('[data-toggle="popover"]').popover({trigger: "hover", html: true})
             })
+        </script>
+        <script>
+            function fillTable(){
+                return 0;
+            }
         </script>
     </body>
 
