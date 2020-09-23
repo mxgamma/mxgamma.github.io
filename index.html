@@ -139,18 +139,15 @@
                 var tableBody = document.getElementById(tableColor);
                 tableData.forEach(function(rowData) {
                     var row = document.createElement('tr');
-
-                    var cell = document.createElement('td');
-                    var cellImage = document.createElement('img');
-                    cellImage.setAttribute("src","images/"+rowData[3]+"Icon.png")
-                    cell.appendChild(cellImage);
-
-                    var cellText = document.createElement('img');
-                    cellText.setAttribute("src","images/"+rowData[3]+"Icon.png")
-                    row.appendChild(cellText);
-                    
-                    tableBody.appendChild(row);
-
+                        var cell = document.createElement('td');
+                            var cellImage = document.createElement('img');
+                                cellImage.setAttribute("src","images/"+rowData[3]+"Icon.png")
+                                cell.appendChild(cellImage);
+                            var cellText = document.createElement('img');
+                                cellText.setAttribute("src","images/"+rowData[3]+"Icon.png")
+                                cell.appendChild(cellText);
+                            row.appendChild(cellText);
+                        tableBody.appendChild(row);
                 });
             }
             createTable(blueCard,"uTableB");
