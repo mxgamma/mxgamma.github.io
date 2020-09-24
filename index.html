@@ -12,12 +12,12 @@
         </div>
         <div class="container-fluid bg-dark text-white">
             <img src="images/wMana.png"/>
-            <input type="checkbox" id="wCheck" onclick="showHide('wCheck','wTable')">
+            <input type="checkbox" id="wCheck" onclick="showHide('wCheck','wColumn')">
         </div>
         <div class="container-fluid bg-white px-50 pt-50">
             <div class="row">
                 <!-- White Table -->
-                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border">
+                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border" id="wColumn">
                     <table class="table table-hover" id="wTable">
                         <thead>
                             <tr>
@@ -249,13 +249,13 @@
             </script>
 
             <script>
-                function showHide(checkID,tableID) {
+                function showHide(checkID,divID) {
                     var checkBox = document.getElementById(checkID);
-                    var table = document.getElementById(tableID);
+                    var div = document.getElementById(divID);
                     if (checkBox.checked == true){
-                        table.style.display = "block";
+                        div.style.display = "block";
                     } else {
-                        table.style.display = "hidden";
+                        div.style.display = "hidden";
                     }
                 }
             </script>
