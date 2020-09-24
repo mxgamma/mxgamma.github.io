@@ -1532,6 +1532,167 @@ znrCards[219-1] =  new Array(
     "https://media.wizards.com/2020/znr/en_xNSAUBYliT.png",
     90
 )
+znrCards[220-1] =  new Array(
+    "c",
+    "Akiri, Fearless Voyager",
+    "r",
+    "https://media.wizards.com/2020/znr/en_XOrmyeMI1I.png",
+    90
+)
+znrCards[221-1] =  new Array(
+    "c",
+    "Brushfire Elemental",
+    "u",
+    "https://media.wizards.com/2020/znr/en_xDl0JjtdZ5.png",
+    80
+)
+znrCards[222-1] =  new Array(
+    "c",
+    "Cleric of Life's Bond",
+    "u",
+    "https://media.wizards.com/2020/znr/en_fWT6AuxvVv.png",
+    100
+)
+znrCards[223-1] =  new Array(
+    "c",
+    "Grakmaw, Skyclave Ravager",
+    "r",
+    "https://media.wizards.com/2020/znr/en_4S8PKYCJq4.png",
+    100
+)
+znrCards[224-1] =  new Array(
+    "c",
+    "Kargan Warleader",
+    "u",
+    "https://media.wizards.com/2020/znr/en_VNbyuf0TYn.png",
+    100
+)
+znrCards[225-1] =  new Array(
+    "c",
+    "Kaza, Roil Chaser",
+    "r",
+    "https://media.wizards.com/2020/znr/en_QRpevY4u3d.png",
+    60
+)
+znrCards[226-1] =  new Array(
+    "c",
+    "Linvala, Shield of Sea Gate",
+    "r",
+    "https://media.wizards.com/2020/znr/en_3SfNpcNBWj.png",
+    100
+)
+znrCards[227-1] =  new Array(
+    "c",
+    "Lullmage's Familiar",
+    "u",
+    "https://media.wizards.com/2020/znr/en_tSIf3qGEad.png",
+    90
+)
+znrCards[228-1] =  new Array(
+    "c",
+    "Moss-Pit Skeleton",
+    "u",
+    "https://media.wizards.com/2020/znr/en_8o0xUkTw9o.png",
+    90
+)
+znrCards[229-1] =  new Array(
+    "c",
+    "Murasa Rootgrazer",
+    "u",
+    "https://media.wizards.com/2020/znr/en_xhScijSYZ4.png",
+    100
+)
+znrCards[230-1] =  new Array(
+    "c",
+    "Nahiri, Heir of the Ancients",
+    "m",
+    "https://media.wizards.com/2020/znr/en_EPClJr2mG8.png",
+    110
+)
+znrCards[231-1] =  new Array(
+    "c",
+    "Nissa of Shadowed Boughs",
+    "m",
+    "https://media.wizards.com/2020/znr/en_Un5yaA4XKS.png",
+    90
+)
+znrCards[232-1] =  new Array(
+    "c",
+    "Omnath, Locus of Creation",
+    "m",
+    "https://media.wizards.com/2020/znr/en_CZ8e0cFucX.png",
+    30
+)
+znrCards[233-1] =  new Array(
+    "c",
+    "Orah, Skyclave Hierophant",
+    "r",
+    "https://media.wizards.com/2020/znr/en_ZpUEwk1L91.png",
+    100
+)
+znrCards[234-1] =  new Array(
+    "c",
+    "Phylath, World Sculptor",
+    "r",
+    "https://media.wizards.com/2020/znr/en_kOhNgIcoEn.png",
+    130
+)
+znrCards[235-1] =  new Array(
+    "c",
+    "Ravager's Mace",
+    "u",
+    "https://media.wizards.com/2020/znr/en_jkddKTc5AT.png",
+    70
+)
+znrCards[236-1] =  new Array(
+    "c",
+    "Soaring Thought-Thief",
+    "u",
+    "https://media.wizards.com/2020/znr/en_9PyydASEBZ.png",
+    90
+)
+znrCards[237-1] =  new Array(
+    "c",
+    "Spoils of Adventure",
+    "u",
+    "https://media.wizards.com/2020/znr/en_drnXVx8izb.png",
+    90
+)
+znrCards[238-1] =  new Array(
+    "c",
+    "Umara Mystic",
+    "u",
+    "https://media.wizards.com/2020/znr/en_azCp6Bt73T.png",
+    90
+)
+znrCards[239-1] =  new Array(
+    "c",
+    "Verazol, the Split Current",
+    "r",
+    "https://media.wizards.com/2020/znr/en_1bdxDnD9fr.png",
+    120
+)
+znrCards[240-1] =  new Array(
+    "c",
+    "Yasharn, Implacable Earth",
+    "r",
+    "https://media.wizards.com/2020/znr/en_HGoeAV3lzm.png",
+    100
+)
+znrCards[241-1] =  new Array(
+    "c",
+    "Zagras, Thief of Heartbeats",
+    "r",
+    "https://media.wizards.com/2020/znr/en_BKDIsMksy8.png",
+    140
+)
+znrCards[242-1] =  new Array(
+    "c",
+    "Zareth San, the Trickster",
+    "r",
+    "https://media.wizards.com/2020/znr/en_gAKHdkkM8f.png",
+    140
+)
 
 //S  - 150
 //A+ - 140
