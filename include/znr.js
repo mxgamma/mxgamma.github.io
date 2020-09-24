@@ -308,11 +308,11 @@ znrCards[43] =  new Array(
     20
 )
 znrCards[44] =  new Array(
-    "u",
-    "Zulaport Duelist",
-    "c",
-    "https://media.wizards.com/2020/znr/en_XjIsSBIByf.png",
-    80
+    "x",
+    "x",
+    "x",
+    "#",
+    0
 )
 znrCards[45] =  new Array(
     "u",
