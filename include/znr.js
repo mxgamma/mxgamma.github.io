@@ -1172,7 +1172,7 @@ znrCards[168-1] =  new Array(
     "r",
     "Synchronized Spellcraft",
     "c",
-    "hthttps://media.wizards.com/2020/znr/en_ISGIBVHplp.png",
+    "https://media.wizards.com/2020/znr/en_ISGIBVHplp.png",
     70
 )
 znrCards[169-1] =  new Array(
