@@ -13,22 +13,22 @@
         <div class="container-fluid bg-dark text-white">
             <strong>Filters: </strong>
             <img src="images/wMana.png"/>
-            <input type="checkbox" id="wCheck" checked onclick="showHide('wCheck','wColumn')">
+            <input type="checkbox" id="wCheck" checked onclick="showHide('w')">
             <strong> - - </strong>
             <img src="images/uMana.png"/>
-            <input type="checkbox" id="uCheck" checked onclick="showHide('uCheck','uColumn')">
+            <input type="checkbox" id="uCheck" checked onclick="showHide('u')">
             <strong> - - </strong>
             <img src="images/bMana.png"/>
-            <input type="checkbox" id="bCheck" checked onclick="showHide('bCheck','bColumn')">
+            <input type="checkbox" id="bCheck" checked onclick="showHide('b')">
             <strong> - - </strong>
             <img src="images/rMana.png"/>
-            <input type="checkbox" id="rCheck" checked onclick="showHide('rCheck','rColumn')">
+            <input type="checkbox" id="rCheck" checked onclick="showHide('r')">
             <strong> - - </strong>
             <img src="images/gMana.png"/>
-            <input type="checkbox" id="gCheck" checked onclick="showHide('gCheck','gColumn')">
+            <input type="checkbox" id="gCheck" checked onclick="showHide('g')">
             <strong> - - </strong>
             <img src="images/cMana.png"/>
-            <input type="checkbox" id="cCheck" checked onclick="showHide('cCheck','cColumn')">
+            <input type="checkbox" id="cCheck" checked onclick="showHide('c')">
         </div>
         <div class="container-fluid bg-light" id="tableCont">
             <div class="row">
@@ -304,13 +304,20 @@
             </script>
 
             <script>
-                function showHide(checkID,divID) {
-                    var checkBox = document.getElementById(checkID);
-                    var div = document.getElementById(divID);
+                function showHide(color) {
+                    var checkBox = document.getElementById(color+"Check");
+                    var div = document.getElementById(color+"Column");
                     if (checkBox.checked == false){
                         div.setAttribute("style","display:none;")
+                        var rows = document.getElementbyID(color+"TableB").getElementsByClassName(color+"Color");
+                        for(var i = 0; i < rows.length; i++){
+                            rows[i].setAttribute("style","display:none");
+                        }
                     } else {
                         div.setAttribute("style","display:inline-block;")
+                        for(var i = 0; i < rows.length; i++){
+                            rows[i].setAttribute("style","display:inline-block");
+                        }
                     }
                 }
             </script>
