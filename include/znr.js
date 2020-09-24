@@ -132,7 +132,48 @@ znrCards[18] =  new Array(
     "https://media.wizards.com/2020/znr/en_QwuM1TxgLR.png",
     80
 )
-
+znrCards[19] =  new Array(
+    "w",
+    "Kitesail Cleric",
+    "u",
+    "https://media.wizards.com/2020/znr/en_HFxVlwk7Hi.png",
+    100
+)
+znrCards[20] =  new Array(
+    "w",
+    "Kor Blademaster",
+    "u",
+    "https://media.wizards.com/2020/znr/en_bLzFM3n9TP.png",
+    80
+)
+znrCards[21] =  new Array(
+    "w",
+    "Kor Celebrant",
+    "u",
+    "https://media.wizards.com/2020/znr/en_pos6KueFpX.png",
+    90
+)
+znrCards[22] =  new Array(
+    "w",
+    "Legion Angel",
+    "r",
+    "https://media.wizards.com/2020/znr/en_YjmX41BEq5.png",
+    50
+)
+znrCards[23] =  new Array(
+    "w",
+    "Luminarch Aspirant",
+    "r",
+    "https://media.wizards.com/2020/znr/en_uvIZ7ugSKg.png",
+    30
+)
+znrCards[24] =  new Array(
+    "w",
+    "Makindi Ox",
+    "c",
+    "https://media.wizards.com/2020/znr/en_kNuYUeY2qL.png",
+    90
+)
 znrCards[25] =  new Array(
     "w",
     "Makindi Stampede",
@@ -140,7 +181,27 @@ znrCards[25] =  new Array(
     "https://media.wizards.com/2020/znr/en_zVz1piesaz.png",
     80
 )
-
+znrCards[26] =  new Array(
+    "w",
+    "Maul of the Skyclaves",
+    "r",
+    "https://media.wizards.com/2020/znr/en_KbX8BEmlPq.png",
+    20
+)
+znrCards[27] =  new Array(
+    "w",
+    "Mesa Lynx",
+    "c",
+    "https://media.wizards.com/2020/znr/en_J9W2HsDWoW.png",
+    100
+)
+znrCards[28] =  new Array(
+    "w",
+    "Nahiri's Binding",
+    "c",
+    "https://media.wizards.com/2020/znr/en_buzMtbhl1C.png",
+    60
+)
 znrCards[29] =  new Array(
     "w",
     "Ondu Inversion",
@@ -148,7 +209,48 @@ znrCards[29] =  new Array(
     "https://media.wizards.com/2020/znr/en_DAzAw71b09.png",
     90
 )
-
+znrCards[30] =  new Array(
+    "w",
+    "Paired Tactician",
+    "u",
+    "https://media.wizards.com/2020/znr/en_tgZLi0qlm1.png",
+    80
+)
+znrCards[31] =  new Array(
+    "w",
+    "Practiced Tactics",
+    "c",
+    "https://media.wizards.com/2020/znr/en_XAZARNWYDv.png",
+    80
+)
+znrCards[32] =  new Array(
+    "w",
+    "Pressure Point",
+    "c",
+    "https://media.wizards.com/2020/znr/en_bEfvTfXBoz.png",
+    110
+)
+znrCards[33] =  new Array(
+    "w",
+    "Prowling Felidar",
+    "c",
+    "https://media.wizards.com/2020/znr/en_xDRdslN7nO.png",
+    110
+)
+znrCards[34] =  new Array(
+    "w",
+    "Resolute Strike",
+    "c",
+    "https://media.wizards.com/2020/znr/en_kgjITet2g7.png",
+    110
+)
+znrCards[35] =  new Array(
+    "w",
+    "Sea Gate Banneret",
+    "c",
+    "https://media.wizards.com/2020/znr/en_Pr2FuwYTXa.png",
+    100
+)
 znrCards[36] =  new Array(
     "w",
     "Sejiri Shelter",
@@ -156,13 +258,54 @@ znrCards[36] =  new Array(
     "https://media.wizards.com/2020/znr/en_Sgd771pU66.png",
     70
 )
-
+znrCards[37] =  new Array(
+    "w",
+    "Shepherd of Heroes",
+    "c",
+    "https://media.wizards.com/2020/znr/en_qCVjS9Sip3.png",
+    70
+)
+znrCards[38] =  new Array(
+    "w",
+    "Skyclave Apparition",
+    "r",
+    "https://media.wizards.com/2020/znr/en_vh8EoPO0lw.png",
+    40
+)
 znrCards[39] =  new Array(
     "w",
     "Skyclave Cleric",
     "u",
     "https://media.wizards.com/2020/znr/en_uJD4uG5OLq.png",
     80
+)
+znrCards[40] =  new Array(
+    "w",
+    "Squad Commander",
+    "r",
+    "https://media.wizards.com/2020/znr/en_UKBNEYgCt6.png",
+    40
+)
+znrCards[41] =  new Array(
+    "w",
+    "Smite the Monstrous",
+    "c",
+    "https://media.wizards.com/2020/znr/en_i2TK1anUAM.png",
+    100
+)
+znrCards[42] =  new Array(
+    "w",
+    "Tazeem Raptor",
+    "c",
+    "https://media.wizards.com/2020/znr/en_m0fA9xBbGW.png",
+    90
+)
+znrCards[43] =  new Array(
+    "w",
+    "Tazri, Beacon of Unity",
+    "m",
+    "https://media.wizards.com/2020/znr/en_AHTGw7Wb00.png",
+    20
 )
 
 //S  - 1
