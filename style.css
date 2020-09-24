@@ -48,6 +48,6 @@ td {
 }
 
 #wColumn, #uColumn, #bColumn, #rColumn, #gColumn, #cColumn{
-    padding: 15px 5px 15px;
+    padding: 15px 8px 15px;
     border: none !important;
 }
