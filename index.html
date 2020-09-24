@@ -315,6 +315,7 @@
                         }
                     } else {
                         div.setAttribute("style","display:inline-block;")
+                        var rows = document.getElementbyID("cTableB").getElementsByClassName(color+"Color");
                         for(var i = 0; i < rows.length; i++){
                             rows[i].setAttribute("style","display:inline-block");
                         }
