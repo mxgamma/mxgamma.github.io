@@ -17,7 +17,7 @@
         <div class="container-fluid bg-white px-50 pt-50">
             <div class="row">
                 <!-- White Table -->
-                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border" id="wColumn">
+                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border" id="wColumn" style="display:none;">
                     <table class="table table-hover" id="wTable">
                         <thead>
                             <tr>
@@ -253,9 +253,9 @@
                     var checkBox = document.getElementById(checkID);
                     var div = document.getElementById(divID);
                     if (checkBox.checked == true){
-                        div.style.display = "inline-block";
+                        div.style.display = "inline-block;";
                     } else {
-                        div.style.display = "none";
+                        div.style.display = "none;";
                     }
                 }
             </script>
