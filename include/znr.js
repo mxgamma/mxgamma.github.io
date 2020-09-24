@@ -34,3 +34,94 @@ znrCards[4] =  new Array(
     "https://media.wizards.com/2020/znr/en_jK2t6wS8Ys.png",
     70
 )
+znrCards[5] =  new Array(
+    "w",
+    "Attended Healer",
+    "u",
+    "https://media.wizards.com/2020/znr/en_npyUXLWkxe.png",
+    60
+)
+znrCards[6] =  new Array(
+    "w",
+    "Canyon Jerboa",
+    "u",
+    "https://media.wizards.com/2020/znr/en_5OvTPwpYhQ.png",
+    100
+)
+znrCards[7] =  new Array(
+    "w",
+    "Cliffhaven Sell-Sword",
+    "c",
+    "https://media.wizards.com/2020/znr/en_twgdW6jnsG.png",
+    100
+)
+znrCards[8] =  new Array(
+    "w",
+    "Dauntless Unity",
+    "c",
+    "https://media.wizards.com/2020/znr/en_p1cWLPffOb.png",
+    100
+)
+znrCards[9] =  new Array(
+    "w",
+    "Disenchant Unity",
+    "c",
+    "https://media.wizards.com/2020/znr/en_SzyHpKSApM.png",
+    130
+)
+znrCards[10] =  new Array(
+    "w",
+    "Emeria Captain",
+    "u",
+    "https://media.wizards.com/2020/znr/en_amcqcpc1jw.png",
+    60
+)
+znrCards[11] =  new Array(
+    "w",
+    "Expedition Healer",
+    "c",
+    "https://media.wizards.com/2020/znr/en_PEE36Frslq.png",
+    80
+)
+znrCards[12] =  new Array(
+    "w",
+    "Emeria's Call",
+    "m",
+    "https://media.wizards.com/2020/znr/en_UYhm8ThgSr.png",
+    10
+)
+znrCards[13] =  new Array(
+    "w",
+    "Farsight Adept",
+    "c",
+    "https://media.wizards.com/2020/znr/en_LMfE8EfXrI.png",
+    80
+)
+znrCards[14] =  new Array(
+    "w",
+    "Fearless Fledgling",
+    "u",
+    "https://media.wizards.com/2020/znr/en_xGn9G9hZIN.png",
+    60
+)
+znrCards[15] =  new Array(
+    "w",
+    "Felidar Retreat",
+    "r",
+    "https://media.wizards.com/2020/znr/en_jXPJ8Cx6vI.png",
+    30
+)
+
+//S  - 1
+//A+ - 2
+//A  - 3
+//A- - 4
+//B+ - 5
+//B  - 6
+//B- - 7
+//C+ - 8
+//C  - 9
+//C- - 10
+//D+ - 11
+//D  - 12
+//D- - 13
