@@ -17,7 +17,7 @@
             <div class="row">
                 <!-- White Table -->
                 <div class="col-12 col-md-6 col-lg-4 col-xl-2 border">
-                    <table class="table table-hover">
+                    <table class="table table-hover" id="wTable">
                         <thead>
                             <tr>
                                 <th>Card</th>
@@ -32,7 +32,7 @@
 
                 <!-- Blue Table -->
                 <div class="col-12 col-md-6 col-lg-4 col-xl-2 border">
-                    <table class="table table-hover">
+                    <table class="table table-hover" id="uTable">
                         <thead>
                             <tr>
                                 <th>Card</th>
@@ -47,7 +47,7 @@
 
                 <!-- Black Table -->
                 <div class="col-12 col-md-6 col-lg-4 col-xl-2 border">
-                    <table class="table table-hover">
+                    <table class="table table-hover" id="bTable">
                         <thead>
                             <tr>
                                 <th>Card</th>
@@ -62,7 +62,7 @@
 
                 <!-- Red Table -->
                 <div class="col-12 col-md-6 col-lg-4 col-xl-2 border">
-                    <table class="table table-hover">
+                    <table class="table table-hover" id="rTable">
                         <thead>
                             <tr>
                                 <th>Card</th>
@@ -78,7 +78,7 @@
 
                 <!-- Green Table -->
                 <div class="col-12 col-md-6 col-lg-4 col-xl-2 border">
-                    <table class="table table-hover">
+                    <table class="table table-hover" id="gTable">
                         <thead>
                             <tr>
                                 <th>Card</th>
@@ -93,7 +93,7 @@
 
                 <!-- Gold Table -->
                 <div class="col-12 col-md-6 col-lg-4 col-xl-2 border">
-                    <table class="table table-hover">
+                    <table class="table table-hover" id="cTable">
                         <thead>
                             <tr>
                                 <th>Card</th>
@@ -110,8 +110,8 @@
 
             </div>
         </div>
-    <p>Hosted with GitHub Pages. v.0.1-HTML</p>
-    <!-- Optional JavaScript -->
+        <p>Hosted with GitHub Pages. v.0.1-HTML</p>
+        <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
@@ -154,9 +154,42 @@
             createTable(znrCards);
         </script>
 
-
-
-
+        <script>
+            function sortTable(tableID) {
+                var table, rows, switching, i, x, y, shouldSwitch;
+                table = document.getElementById(tableID);
+                switching = true;
+                /*Make a loop that will continue until
+                no switching has been done:*/
+                while (switching) {
+                    //start by saying: no switching is done:
+                    switching = false;
+                    rows = table.rows;
+                    /*Loop through all table rows (except the
+                    first, which contains table headers):*/
+                    for (i = 1; i < (rows.length - 1); i++) {
+                    //start by saying there should be no switching:
+                    shouldSwitch = false;
+                    /*Get the two elements you want to compare,
+                    one from current row and one from the next:*/
+                    x = rows[i].getElementsByTagName("td")[1];
+                    y = rows[i + 1].getElementsByTagName("td")[1];
+                    //check if the two rows should switch place:
+                    if (Number(x.innerHTML) > Number(y.innerHTML)) {
+                        //if so, mark as a switch and break the loop:
+                        shouldSwitch = true;
+                        break;
+                    }
+                    }
+                    if (shouldSwitch) {
+                    /*If a switch has been marked, make the switch
+                    and mark that a switch has been done:*/
+                    rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                    switching = true;
+                    }
+                }
+            }
+            sortTable("wTable");
+        </script>
     </body>
-
 </html>
