@@ -313,7 +313,7 @@
                         var rows = document.getElementbyID("cTable").rows;
                         for(var i = 0; i < rows.length; i++){
                             if(rows[i].classList.contains(color+"Color")){
-                                rows[i].setAttribute("style","display:none");
+                                rows[i].getElementsByTagName("tr").setAttribute("style","display:none");
                             }
                         }
                     } else {
