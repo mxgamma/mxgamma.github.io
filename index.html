@@ -173,8 +173,9 @@
                             var cardName = document.createTextNode(" "+rowData[1]);
                                 cell.appendChild(cardName);
                                 var n = 5;
-                                if(true){
-                                    n = rowData.length;
+                                var rowLength = rowData.length;
+                                if(rowLength - n > 0){
+                                    
                                 }
                             row.appendChild(cell);
 
