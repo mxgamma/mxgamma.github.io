@@ -7,7 +7,7 @@ td {
 }
 
 tr {
-    height: 10px;
+    max-height: 10px;
 }
 
 /* The max width is dependant on the container (more info below) */
