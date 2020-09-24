@@ -12,12 +12,12 @@
         </div>
         <div class="container-fluid bg-dark text-white">
             <img src="images/wMana.png"/>
-            <input type="checkbox" id="wCheck" onclick="showHide('wCheck','wColumn')">
+            <input type="checkbox" id="wCheck" checked onclick="showHide('wCheck','wColumn')">
         </div>
         <div class="container-fluid bg-white px-50 pt-50">
             <div class="row">
                 <!-- White Table -->
-                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border" id="wColumn" style="display:none;">
+                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border" id="wColumn" style="display:inline-block;">
                     <table class="table table-hover" id="wTable">
                         <thead>
                             <tr>
@@ -252,10 +252,10 @@
                 function showHide(checkID,divID) {
                     var checkBox = document.getElementById(checkID);
                     var div = document.getElementById(divID);
-                    if (checkBox.checked == true){
-                        div.style.display = "inline-block;";
-                    } else {
+                    if (checkBox.checked == false){
                         div.style.display = "none;";
+                    } else {
+                        div.style.display = "inline-block;";
                     }
                 }
             </script>
