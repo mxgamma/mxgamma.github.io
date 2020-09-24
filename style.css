@@ -2,21 +2,12 @@ body {
     background-color: lightblue;
 }
 
-table td{
-    padding: 0.5rem 0.0rem 0.5rem 0.5rem;
-}
-
-table th{
+.table td, .table th{
     padding: 0.5rem 0.0rem 0.5rem 0.5rem;
 }
 
 td {
     font-size: 0.75em;
-    padding: 0.5rem 0.0rem 0.5rem 0.5rem;
-}
-
-tr {
-    padding: 0.5rem 0.0rem 0.5rem 0.5rem;
 }
 
 /* The max width is dependant on the container (more info below) */
