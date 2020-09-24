@@ -6,6 +6,10 @@ body {
     padding: 0.5rem 0.0rem 0.5rem 0.5rem;
 }
 
+#tableCont{
+    background-color: #323539;
+}
+
 td {
     font-size: 0.75em;
 }
