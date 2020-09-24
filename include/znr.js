@@ -1231,7 +1231,307 @@ znrCards[176-1] =  new Array(
     "https://media.wizards.com/2020/znr/en_KIegV4ECLr.png",
     30
 )
-
+znrCards[177-1] =  new Array(
+    "g",
+    "Adventure Awaits",
+    "c",
+    "https://media.wizards.com/2020/znr/en_ksuWq4Aljm.png",
+    40
+)
+znrCards[178-1] =  new Array(
+    "g",
+    "Ancient Greenwarden",
+    "m",
+    "https://media.wizards.com/2020/znr/en_FF7hkojDVU.png",
+    100
+)
+znrCards[179-1] =  new Array(
+    "g",
+    "Ashaya, Soul of the Wild",
+    "m",
+    "https://media.wizards.com/2020/znr/en_9FaoGJ6pXl.png",
+    140
+)
+znrCards[180-1] =  new Array(
+    "g",
+    "Bala Ged Recovery",
+    "u",
+    "https://media.wizards.com/2020/znr/en_pX9WY5xHjd.png",
+    90
+)
+znrCards[181-1] =  new Array(
+    "g",
+    "Broken Wings",
+    "c",
+    "https://media.wizards.com/2020/znr/en_lGHFvglJzx.png",
+    40
+)
+znrCards[182-1] =  new Array(
+    "g",
+    "Canopy Baloth",
+    "c",
+    "https://media.wizards.com/2020/znr/en_4b3WmunVvi.png",
+    90
+)
+znrCards[183-1] =  new Array(
+    "g",
+    "Cragplate Baloth",
+    "r",
+    "https://media.wizards.com/2020/znr/en_AWOC6bG9Za.png",
+    70
+)
+znrCards[184-1] =  new Array(
+    "g",
+    "Dauntless Survivor",
+    "c",
+    "https://media.wizards.com/2020/znr/en_ONFokwVtTE.png",
+    70
+)
+znrCards[185-1] =  new Array(
+    "g",
+    "Gnarlid Colony",
+    "c",
+    "https://media.wizards.com/2020/znr/en_awEBbyXnuw.png",
+    80
+)
+znrCards[186-1] =  new Array(
+    "g",
+    "Inscription of Abundance",
+    "r",
+    "https://media.wizards.com/2020/znr/en_H5o54LQnSp.png",
+    130
+)
+znrCards[187-1] =  new Array(
+    "g",
+    "Iridescent Hornbeetle",
+    "u",
+    "https://media.wizards.com/2020/znr/en_dEYU3JFJTB.png",
+    80
+)
+znrCards[188-1] =  new Array(
+    "g",
+    "Joraga Visionary",
+    "c",
+    "https://media.wizards.com/2020/znr/en_pOFb8jNUR0.png",
+    80
+)
+znrCards[189-1] =  new Array(
+    "g",
+    "Kazandu Mammoth",
+    "r",
+    "https://media.wizards.com/2020/znr/en_Zw38qtsv8Z.png",
+    120
+)
+znrCards[190-1] =  new Array(
+    "g",
+    "Kazandu Nectarpot",
+    "c",
+    "https://media.wizards.com/2020/znr/en_qkyEP78Zkw.png",
+    60
+)
+znrCards[191-1] =  new Array(
+    "g",
+    "Kazandu Stomper",
+    "c",
+    "https://media.wizards.com/2020/znr/en_CcENhXv3ZT.png",
+    60
+)
+znrCards[192-1] =  new Array(
+    "g",
+    "Khalni Ambush",
+    "u",
+    "https://media.wizards.com/2020/znr/en_lv4hFPCJyF.png",
+    100
+)
+znrCards[193-1] =  new Array(
+    "g",
+    "Lotus Cobra",
+    "r",
+    "https://media.wizards.com/2020/znr/en_94zyrBZ06t.png",
+    90
+)
+znrCards[194-1] =  new Array(
+    "g",
+    "Might of Murasa",
+    "c",
+    "https://media.wizards.com/2020/znr/en_Ty4bbEQs8e.png",
+    50
+)
+znrCards[195-1] =  new Array(
+    "g",
+    "Murasa Brute",
+    "c",
+    "https://media.wizards.com/2020/znr/en_FIocS95V65.png",
+    60
+)
+znrCards[196-1] =  new Array(
+    "g",
+    "Murasa Sproutling",
+    "u",
+    "https://media.wizards.com/2020/znr/en_PuejazHTuO.png",
+    100
+)
+znrCards[197-1] =  new Array(
+    "g",
+    "Nissa's Zendikon",
+    "c",
+    "https://media.wizards.com/2020/znr/en_NjPa8Bkub4.png",
+    50
+)
+znrCards[198-1] =  new Array(
+    "g",
+    "Oran-Rief Ooze",
+    "r",
+    "https://media.wizards.com/2020/znr/en_9SgLAb055b.png",
+    110
+)
+znrCards[199-1] =  new Array(
+    "g",
+    "Rabid Bite",
+    "c",
+    "https://media.wizards.com/2020/znr/en_YQfawrg7yq.png",
+    90
+)
+znrCards[200-1] =  new Array(
+    "g",
+    "Reclaim the Wastes",
+    "c",
+    "https://media.wizards.com/2020/znr/en_uZ2F8kWb4t.png",
+    50
+)
+znrCards[201-1] =  new Array(
+    "g",
+    "Roiling Regrowth",
+    "u",
+    "https://media.wizards.com/2020/znr/en_PlAs1ReWM3.png",
+    70
+)
+znrCards[202-1] =  new Array(
+    "g",
+    "Scale the Heights",
+    "c",
+    "https://media.wizards.com/2020/znr/en_F42M2jtWvN.png",
+    60
+)
+znrCards[203-1] =  new Array(
+    "g",
+    "Scute Swarm",
+    "r",
+    "https://media.wizards.com/2020/znr/en_7EYf3JqsDB.png",
+    120
+)
+znrCards[204-1] =  new Array(
+    "g",
+    "Skyclave Pick-Axe",
+    "u",
+    "https://media.wizards.com/2020/znr/en_wvPgzDA6aw.png",
+    50
+)
+znrCards[205-1] =  new Array(
+    "g",
+    "Springmantle Cleric",
+    "u",
+    "https://media.wizards.com/2020/znr/en_DMPRGe6rKY.png",
+    50
+)
+znrCards[206-1] =  new Array(
+    "g",
+    "Strength of Solidarity",
+    "c",
+    "https://media.wizards.com/2020/znr/en_X7UspkPGM7.png",
+    40
+)
+znrCards[207-1] =  new Array(
+    "g",
+    "Swarm Shambler",
+    "r",
+    "https://media.wizards.com/2020/znr/en_tpQOYVsceX.png",
+    90
+)
+znrCards[208-1] =  new Array(
+    "g",
+    "Tajuru Blightblade",
+    "c",
+    "https://media.wizards.com/2020/znr/en_fhtPY9CaEs.png",
+    70
+)
+znrCards[209-1] =  new Array(
+    "g",
+    "Tajuru Paragon",
+    "r",
+    "https://media.wizards.com/2020/znr/en_2DOOf7DCjD.png",
+    100
+)
+znrCards[210-1] =  new Array(
+    "g",
+    "Tajuru Snarecaster",
+    "c",
+    "https://media.wizards.com/2020/znr/en_Yn9D6Lfg5f.png",
+    50
+)
+znrCards[211-1] =  new Array(
+    "g",
+    "Tangled Florahedron",
+    "u",
+    "https://media.wizards.com/2020/znr/en_ADO5gLvVS8.png",
+    90
+)
+znrCards[212-1] =  new Array(
+    "g",
+    "Taunting Arbormage",
+    "u",
+    "https://media.wizards.com/2020/znr/en_gD9qy1JisM.png",
+    90
+)
+znrCards[213-1] =  new Array(
+    "g",
+    "Territorial Scythecat",
+    "c",
+    "https://media.wizards.com/2020/znr/en_ikVTGUC61L.png",
+    90
+)
+znrCards[214-1] =  new Array(
+    "g",
+    "Turntimber Ascetic",
+    "c",
+    "https://media.wizards.com/2020/znr/en_uOLjgih49D.png",
+    70
+)
+znrCards[215-1] =  new Array(
+    "g",
+    "Turntimber Symbiosis",
+    "m",
+    "https://media.wizards.com/2020/znr/en_VIQdj6ajva.png",
+    110
+)
+znrCards[216-1] =  new Array(
+    "g",
+    "Vastwood Fortification",
+    "u",
+    "https://media.wizards.com/2020/znr/en_7rKQJ2op1e.png",
+    80
+)
+znrCards[217-1] =  new Array(
+    "g",
+    "Vastwood Surge",
+    "u",
+    "https://media.wizards.com/2020/znr/en_RYupKARzG7.png",
+    90
+)
+znrCards[218-1] =  new Array(
+    "g",
+    "Veteran Adventurer",
+    "u",
+    "https://media.wizards.com/2020/znr/en_UsXVXWBpDI.png",
+    100
+)
+znrCards[219-1] =  new Array(
+    "g",
+    "Vine Gecko",
+    "u",
+    "https://media.wizards.com/2020/znr/en_xNSAUBYliT.png",
+    90
+)
 
 //S  - 150
 //A+ - 140
