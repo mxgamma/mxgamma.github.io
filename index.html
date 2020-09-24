@@ -17,6 +17,18 @@
             <strong> - - </strong>
             <img src="images/uMana.png"/>
             <input type="checkbox" id="uCheck" checked onclick="showHide('uCheck','uColumn')">
+            <strong> - - </strong>
+            <img src="images/bMana.png"/>
+            <input type="checkbox" id="bCheck" checked onclick="showHide('bCheck','bColumn')">
+            <strong> - - </strong>
+            <img src="images/rMana.png"/>
+            <input type="checkbox" id="rCheck" checked onclick="showHide('rCheck','rColumn')">
+            <strong> - - </strong>
+            <img src="images/gMana.png"/>
+            <input type="checkbox" id="gCheck" checked onclick="showHide('gCheck','gColumn')">
+            <strong> - - </strong>
+            <img src="images/cMana.png"/>
+            <input type="checkbox" id="cCheck" checked onclick="showHide('cCheck','cColumn')">
         </div>
         <div class="container-fluid bg-white px-50 pt-50">
             <div class="row">
@@ -51,12 +63,13 @@
                 </div>
 
                 <!-- Black Table -->
-                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border">
+                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border" id="uColumn" style="display:inline-block;">
                     <table class="table table-hover" id="bTable">
                         <thead>
                             <tr>
-                                <th>Card</th>
-                                <th>Score</th>
+                                <th></th>
+                                <th onclick="sortTable('bTable')">Card</th>
+                                <th onclick="autoSortTable('bTable')" style="text-align:center">Score</th>
                             </tr>
                         </thead>
                         <tbody id="bTableB">
@@ -65,12 +78,13 @@
                 </div>
 
                 <!-- Red Table -->
-                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border">
+                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border" id="uColumn" style="display:inline-block;">
                     <table class="table table-hover" id="rTable">
                         <thead>
                             <tr>
-                                <th>Card</th>
-                                <th>Score</th>
+                                <th></th>
+                                <th onclick="sortTable('rTable')">Card</th>
+                                <th onclick="autoSortTable('rTable')" style="text-align:center">Score</th>
                             </tr>
                         </thead>
                         <tbody id="rTableB">
@@ -79,12 +93,13 @@
                 </div>
 
                 <!-- Green Table -->
-                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border">
+                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border" id="uColumn" style="display:inline-block;">
                     <table class="table table-hover" id="gTable">
                         <thead>
                             <tr>
-                                <th>Card</th>
-                                <th>Score</th>
+                                <th></th>
+                                <th onclick="sortTable('gTable')">Card</th>
+                                <th onclick="autoSortTable('gTable')" style="text-align:center">Score</th>
                             </tr>
                         </thead>
                         <tbody id="gTableB">
@@ -93,12 +108,13 @@
                 </div>
 
                 <!-- Gold Table -->
-                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border">
+                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border" id="uColumn" style="display:inline-block;">
                     <table class="table table-hover" id="cTable">
                         <thead>
                             <tr>
-                                <th>Card</th>
-                                <th>Score</th>
+                                <th></th>
+                                <th onclick="sortTable('cTable')">Card</th>
+                                <th onclick="autoSortTable('cTable')" style="text-align:center">Score</th>
                             </tr>
                         </thead>
                         <tbody id="cTableB">
