@@ -309,7 +309,7 @@
                     var div = document.getElementById(color+"Column");
                     if (checkBox.checked == false){
                         div.setAttribute("style","display:none;")
-                        var rows = document.getElementbyID(color+"TableB").getElementsByClassName(color+"Color");
+                        var rows = document.getElementbyID("cTableB").getElementsByClassName(color+"Color");
                         for(var i = 0; i < rows.length; i++){
                             rows[i].setAttribute("style","display:none");
                         }
