@@ -175,13 +175,17 @@
                                 var n;
                                 var rowLength = rowData.length;
                                 if(cardColor=="c" && rowLength == 5){
-                                    row.setAttribute("bgcolor","#707070");
+                                    row.setAttribute("bgcolor","#909090");
                                 }
                                 if(rowLength > 5){
                                     cardName = document.createTextNode(" ");
                                     cell.appendChild(cardName);
                                 }
                                 for(n = 5; n < rowLength; n++){
+                                    if(rowLength[n]=="l"){
+                                        row.setAttribute("bgcolor","#94714f");
+                                        break;
+                                    }
                                     var cardColor = document.createElement('img');
                                     cardColor.setAttribute("src","images/"+rowData[n]+"Mana.png");
                                     cell.appendChild(cardColor);
