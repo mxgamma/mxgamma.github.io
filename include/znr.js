@@ -64,7 +64,7 @@ znrCards[8] =  new Array(
 )
 znrCards[9] =  new Array(
     "w",
-    "Disenchant Unity",
+    "Disenchant",
     "c",
     "https://media.wizards.com/2020/znr/en_SzyHpKSApM.png",
     130
@@ -110,6 +110,46 @@ znrCards[15] =  new Array(
     "r",
     "https://media.wizards.com/2020/znr/en_jXPJ8Cx6vI.png",
     30
+)
+
+znrCards[19] =  new Array(
+    "w",
+    "Kabira Takedown",
+    "u",
+    "https://media.wizards.com/2020/znr/en_QwuM1TxgLR.png",
+    80
+)
+
+znrCards[26] =  new Array(
+    "w",
+    "Makindi Stampede",
+    "u",
+    "https://media.wizards.com/2020/znr/en_zVz1piesaz.png",
+    80
+)
+
+znrCards[30] =  new Array(
+    "w",
+    "Ondu Inversion",
+    "r",
+    "https://media.wizards.com/2020/znr/en_DAzAw71b09.png",
+    90
+)
+
+znrCards[37] =  new Array(
+    "w",
+    "Sejiri Shelter",
+    "u",
+    "https://media.wizards.com/2020/znr/en_Sgd771pU66.png",
+    70
+)
+
+znrCards[40] =  new Array(
+    "w",
+    "Skyclave Cleric",
+    "u",
+    "https://media.wizards.com/2020/znr/en_uJD4uG5OLq.png",
+    80
 )
 
 //S  - 1
