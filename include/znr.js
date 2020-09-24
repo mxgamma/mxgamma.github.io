@@ -307,6 +307,55 @@ znrCards[43] =  new Array(
     "https://media.wizards.com/2020/znr/en_AHTGw7Wb00.png",
     20
 )
+znrCards[45] =  new Array(
+    "",
+    "",
+    "",
+    "",
+    ""
+)
+znrCards[46] =  new Array(
+    "u",
+    "Beyeen Veil",
+    "u",
+    "https://media.wizards.com/2020/znr/en_OviMM7CKMe.png",
+    80
+)
+znrCards[60] =  new Array(
+    "u",
+    "Glasspool Mimic",
+    "r",
+    "https://media.wizards.com/2020/znr/en_LQJC6w5gP4.png",
+    50
+)
+znrCards[64] =  new Array(
+    "u",
+    "Jwari Disruption",
+    "u",
+    "https://media.wizards.com/2020/znr/en_V9WMDjkBTU.png",
+    80
+)
+znrCards[76] =  new Array(
+    "u",
+    "Sea Gate Restoration",
+    "m",
+    "https://media.wizards.com/2020/znr/en_7xSETF2QnG.png",
+    80
+)
+znrCards[80] =  new Array(
+    "u",
+    "Silundi Vision",
+    "u",
+    "https://media.wizards.com/2020/znr/en_HQnBM2cXvs.png",
+    80
+)
+znrCards[86] =  new Array(
+    "u",
+    "Umara Wizard",
+    "u",
+    "https://media.wizards.com/2020/znr/en_3g1Zusw38L.png",
+    60
+)
 
 //S  - 1
 //A+ - 2
