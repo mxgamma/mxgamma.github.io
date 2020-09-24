@@ -1844,7 +1844,8 @@ znrCards[257-1] =  new Array(
     "Base Camp",
     "u",
     "https://media.wizards.com/2020/znr/en_Cm61aATcRN.png",
-    40
+    40,
+    "l"
 )
 znrCards[258-1] =  new Array(
     "c",
@@ -1853,7 +1854,8 @@ znrCards[258-1] =  new Array(
     "https://media.wizards.com/2020/znr/en_hJ9A9jefon.png",
     70,
     "g",
-    "w"
+    "w",
+    "l"
 )
 znrCards[259-1] =  new Array(
     "c",
@@ -1862,7 +1864,8 @@ znrCards[259-1] =  new Array(
     "https://media.wizards.com/2020/znr/en_KUqTQ5MqhG.png",
     70,
     "w",
-    "b"
+    "b",
+    "l"
 )
 znrCards[260-1] =  new Array(
     "c",
@@ -1871,7 +1874,8 @@ znrCards[260-1] =  new Array(
     "https://media.wizards.com/2020/znr/en_5HYGFHM0Kg.png",
     70,
     "u",
-    "b"
+    "b",
+    "l"
 )
 znrCards[261-1] =  new Array(
     "c",
@@ -1880,14 +1884,16 @@ znrCards[261-1] =  new Array(
     "https://media.wizards.com/2020/znr/en_26pLsDL96C.png",
     70,
     "r",
-    "g"
+    "g",
+    "l"
 )
 znrCards[262-1] =  new Array(
     "c",
     "Crawling Barrens",
     "r",
     "https://media.wizards.com/2020/znr/en_GVhrroJ3TS.png",
-    80
+    80,
+    "l"
 )
 znrCards[263-1] =  new Array(
     "c",
@@ -1896,7 +1902,8 @@ znrCards[263-1] =  new Array(
     "https://media.wizards.com/2020/znr/en_bEX3pwCEOA.png",
     70,
     "r",
-    "w"
+    "w",
+    "l"
 )
 znrCards[264-1] =  new Array(
     "c",
@@ -1905,14 +1912,16 @@ znrCards[264-1] =  new Array(
     "https://media.wizards.com/2020/znr/en_piHdkf3FZP.png",
     70,
     "u",
-    "r"
+    "r",
+    "l"
 )
 znrCards[265-1] =  new Array(
     "c",
     "Throne of Makindi",
     "r",
     "https://media.wizards.com/2020/znr/en_wd2oOmWjJm.png",
-    30
+    30,
+    "l"
 )
 
 //S  - 150
