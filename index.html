@@ -173,7 +173,7 @@
                             var cardName = document.createTextNode(" "+rowData[1]);
                                 cell.appendChild(cardName);
                                 var n = 0;
-                                while(rowdata[n+5]!=null){
+                                if(rowdata[n+5]!=null){
                                     var colorIcon = document.createElement('img');
                                     colorIcon.setAttribute("src","images/"+rowData[n+5]+"Mana.png")
                                     cell.appendChild(colorIcon);
