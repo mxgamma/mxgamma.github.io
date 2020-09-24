@@ -1741,6 +1741,179 @@ znrCards[242-1] =  new Array(
     "u",
     "b"
 )
+znrCards[243-1] =  new Array(
+    "c",
+    "Cliffhaven Kitesail",
+    "c",
+    "https://media.wizards.com/2020/znr/en_EGbL4AdT64.png",
+    60
+)
+znrCards[244-1] =  new Array(
+    "c",
+    "Forsaken Monument",
+    "m",
+    "https://media.wizards.com/2020/znr/en_Petlnd8MBs.png",
+    10
+)
+znrCards[245-1] =  new Array(
+    "c",
+    "Lithoform Engine",
+    "m",
+    "https://media.wizards.com/2020/znr/en_HidnzW4fNz.png",
+    60
+)
+znrCards[246-1] =  new Array(
+    "c",
+    "Myriad Construct",
+    "r",
+    "https://media.wizards.com/2020/znr/en_A4hOENNCOG.png",
+    110
+)
+znrCards[247-1] =  new Array(
+    "c",
+    "Relic Amulet",
+    "u",
+    "https://media.wizards.com/2020/znr/en_dlIlo47sUc.png",
+    50
+)
+znrCards[248-1] =  new Array(
+    "c",
+    "Relic Axe",
+    "u",
+    "https://media.wizards.com/2020/znr/en_aUtkJl1Xob.png",
+    70
+)
+znrCards[249-1] =  new Array(
+    "c",
+    "Relic Golem",
+    "u",
+    "https://media.wizards.com/2020/znr/en_ELRBFWQpfp.png",
+    60
+)
+znrCards[250-1] =  new Array(
+    "c",
+    "Relic Vial",
+    "u",
+    "https://media.wizards.com/2020/znr/en_WB5G7TUbZx.png",
+    60
+)
+znrCards[251-1] =  new Array(
+    "c",
+    "Sea Gate Colossus",
+    "u",
+    "https://media.wizards.com/2020/znr/en_xY8H5vjMsz.png",
+    70
+)
+znrCards[252-1] =  new Array(
+    "c",
+    "Skyclave Relic",
+    "r",
+    "https://media.wizards.com/2020/znr/en_O2zc73Ii56.png",
+    50
+)
+znrCards[253-1] =  new Array(
+    "c",
+    "Skyclave Sentinel",
+    "c",
+    "https://media.wizards.com/2020/znr/en_A0iOlp0BB5.png",
+    50
+)
+znrCards[254-1] =  new Array(
+    "c",
+    "Spare Supplies",
+    "c",
+    "https://media.wizards.com/2020/znr/en_Z8FNse9rR8.png",
+    50
+)
+znrCards[255-1] =  new Array(
+    "c",
+    "Stonework Packbeast",
+    "c",
+    "https://media.wizards.com/2020/znr/en_E1HT5IkzRx.png",
+    70
+)
+znrCards[256-1] =  new Array(
+    "c",
+    "Utility Knife",
+    "c",
+    "https://media.wizards.com/2020/znr/en_4JLjqFMAe1.png",
+    40
+)
+znrCards[257-1] =  new Array(
+    "c",
+    "Base Camp",
+    "u",
+    "https://media.wizards.com/2020/znr/en_Cm61aATcRN.png",
+    40
+)
+znrCards[258-1] =  new Array(
+    "c",
+    "Branchloft Pathway",
+    "r",
+    "https://media.wizards.com/2020/znr/en_hJ9A9jefon.png",
+    70,
+    "g",
+    "w"
+)
+znrCards[259-1] =  new Array(
+    "c",
+    "Brightclimb Pathway",
+    "r",
+    "https://media.wizards.com/2020/znr/en_KUqTQ5MqhG.png",
+    70,
+    "w",
+    "b"
+)
+znrCards[260-1] =  new Array(
+    "c",
+    "Clearwater Pathway",
+    "r",
+    "https://media.wizards.com/2020/znr/en_5HYGFHM0Kg.png",
+    70,
+    "u",
+    "b"
+)
+znrCards[261-1] =  new Array(
+    "c",
+    "Cragcrown Pathway",
+    "r",
+    "https://media.wizards.com/2020/znr/en_26pLsDL96C.png",
+    70,
+    "r",
+    "g"
+)
+znrCards[262-1] =  new Array(
+    "c",
+    "Crawling Barrens",
+    "r",
+    "https://media.wizards.com/2020/znr/en_GVhrroJ3TS.png",
+    80
+)
+znrCards[263-1] =  new Array(
+    "c",
+    "Needleverge Pathway",
+    "r",
+    "https://media.wizards.com/2020/znr/en_bEX3pwCEOA.png",
+    70,
+    "r",
+    "w"
+)
+znrCards[264-1] =  new Array(
+    "c",
+    "Needleverge Pathway",
+    "r",
+    "https://media.wizards.com/2020/znr/en_piHdkf3FZP.png",
+    70,
+    "u",
+    "r"
+)
+znrCards[265-1] =  new Array(
+    "c",
+    "Throne of Makindi",
+    "r",
+    "https://media.wizards.com/2020/znr/en_wd2oOmWjJm.png",
+    30
+)
 
 //S  - 150
 //A+ - 140
