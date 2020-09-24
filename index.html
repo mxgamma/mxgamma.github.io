@@ -20,7 +20,7 @@
                     <table class="table table-hover" id="wTable">
                         <thead>
                             <tr>
-                                <th onclick="" width="20px"></th>
+                                <th onclick="" style="width:20px"></th>
                                 <th onclick="">Card</th>
                                 <th onclick="autoSortTable('wTable')">Score</th>
                             </tr>
@@ -129,7 +129,7 @@
                         row.setAttribute("data-toggle","popover");
                         row.setAttribute("data-content","<img src='"+rowData[3]+"' />");
                         var cell = document.createElement('td');
-                            cell.setAttribute("width","20px");
+                            cell.setAttribute("style","width:20px");
                             var cardImage = document.createElement('img');
                                 cardImage.setAttribute("src","images/"+rowData[2]+"Icon.png")
                                 cell.appendChild(cardImage);
