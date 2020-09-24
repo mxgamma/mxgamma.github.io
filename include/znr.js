@@ -608,14 +608,14 @@ znrCards[86] =  new Array(
     "https://media.wizards.com/2020/znr/en_3g1Zusw38L.png",
     60
 )
-znrCards[86] =  new Array(
+znrCards[87] =  new Array(
     "u",
     "Windrider Wizard",
     "u",
     "https://media.wizards.com/2020/znr/en_TSo6B1zR81.png",
     80
 )
-znrCards[87] =  new Array(
+znrCards[88] =  new Array(
     "u",
     "Zulaport Duelist",
     "c",
