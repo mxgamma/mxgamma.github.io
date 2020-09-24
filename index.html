@@ -309,15 +309,19 @@
                     var div = document.getElementById(color+"Column");
                     if (checkBox.checked == false){
                         div.setAttribute("style","display:none;")
-                        var rows = document.getElementbyID("cTable").getElementsByClassName(color+"Color");
+                        var rows = document.getElementbyID("cTable").rows;
                         for(var i = 0; i < rows.length; i++){
-                            rows[i].setAttribute("style","display:none");
+                            if(rows[i].classList.contains(color+"Color")){
+                                rows[i].setAttribute("style","display:none");
+                            }
                         }
                     } else {
                         div.setAttribute("style","display:inline-block;")
-                        var rows = document.getElementbyID("cTable").getElementsByClassName(color+"Color");
+                        var rows = document.getElementbyID("cTable").rows;
                         for(var i = 0; i < rows.length; i++){
-                            rows[i].setAttribute("style","display:inline-block");
+                            if(rows[i].classList.contains(color+"Color")){
+                                rows[i].setAttribute("style","display:block");
+                            }
                         }
                     }
                 }
