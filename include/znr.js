@@ -615,6 +615,314 @@ znrCards[88-1] =  new Array(
     "https://media.wizards.com/2020/znr/en_XjIsSBIByf.png",
     160-80
 )
+znrCards[89-1] =  new Array(
+    "b",
+    "Acquisitions Expert",
+    "u",
+    "https://media.wizards.com/2020/znr/en_GucK6u0sW4.png",
+    90
+)
+znrCards[90-1] =  new Array(
+    "b",
+    "Agadeem's Awakening",
+    "m",
+    "https://media.wizards.com/2020/znr/en_O42y7ubYBf.png",
+    140
+)
+znrCards[91-1] =  new Array(
+    "b",
+    "Blackbloom Rogue",
+    "u",
+    "https://media.wizards.com/2020/znr/en_JXeg5eULBd.png",
+    100
+)
+znrCards[92-1] =  new Array(
+    "b",
+    "Blood Beckoning",
+    "c",
+    "https://media.wizards.com/2020/znr/en_9ojO7ePG5C.png",
+    60
+)
+znrCards[93-1] =  new Array(
+    "b",
+    "Blood Price",
+    "c",
+    "https://media.wizards.com/2020/znr/en_HT37s2tsBg.png",
+    60
+)
+znrCards[94-1] =  new Array(
+    "b",
+    "Bloodchief's Thirst",
+    "u",
+    "https://media.wizards.com/2020/znr/en_uEWOIgbaEY.png",
+    110
+)
+znrCards[95-1] =  new Array(
+    "b",
+    "Coveted Prize",
+    "r",
+    "https://media.wizards.com/2020/znr/en_hUqKkFOciK.png",
+    40
+)
+znrCards[96-1] =  new Array(
+    "b",
+    "Deadly Alliance",
+    "c",
+    "https://media.wizards.com/2020/znr/en_zJXPJsTEFJ.png",
+    110
+)
+znrCards[97-1] =  new Array(
+    "b",
+    "Demon's Disciple",
+    "u",
+    "https://media.wizards.com/2020/znr/en_tshXPh3FR7.png",
+    60
+)
+znrCards[98-1] =  new Array(
+    "b",
+    "Drana, the Last Bloodchief",
+    "m",
+    "https://media.wizards.com/2020/znr/en_G9QjCJw3Te.png",
+    140
+)
+znrCards[99-1] =  new Array(
+    "b",
+    "Drana's Silencer",
+    "c",
+    "https://media.wizards.com/2020/znr/en_qv8ITYSjRe.png",
+    60
+)
+znrCards[100-1] =  new Array(
+    "b",
+    "Dreadwurm",
+    "c",
+    "https://media.wizards.com/2020/znr/en_UJwkWHZ4hF.png",
+    80
+)
+znrCards[101-1] =  new Array(
+    "b",
+    "Expedition Skulker",
+    "c",
+    "https://media.wizards.com/2020/znr/en_eb9WaJRVjO.png",
+    60
+)
+znrCards[102-1] =  new Array(
+    "b",
+    "Feed the Swarm",
+    "c",
+    "https://media.wizards.com/2020/znr/en_o0Kj7j1jfC.png",
+    90
+)
+znrCards[103-1] =  new Array(
+    "b",
+    "Ghastly Gloomhunter",
+    "c",
+    "https://media.wizards.com/2020/znr/en_jS4e1W0IQ5.png",
+    70
+)
+znrCards[104-1] =  new Array(
+    "b",
+    "Guul Draz Mucklord",
+    "c",
+    "https://media.wizards.com/2020/znr/en_LK2bAJodWB.png",
+    60
+)
+znrCards[105-1] =  new Array(
+    "b",
+    "Hagra Constrictor",
+    "c",
+    "https://media.wizards.com/2020/znr/en_RHInYkbKEH.png",
+    60
+)
+znrCards[106-1] =  new Array(
+    "b",
+    "Hagra Mauling",
+    "r",
+    "https://media.wizards.com/2020/znr/en_l47amxg3Dk.png",
+    120
+)
+znrCards[107-1] =  new Array(
+    "b",
+    "Highborn Vampire",
+    "c",
+    "https://media.wizards.com/2020/znr/en_Teckgsggvx.png",
+    50
+)
+znrCards[108-1] =  new Array(
+    "b",
+    "Inscription of Ruin",
+    "r",
+    "https://media.wizards.com/2020/znr/en_qo64DPpmWS.png",
+    110
+)
+znrCards[109-1] =  new Array(
+    "b",
+    "Lithoform Blight",
+    "u",
+    "https://media.wizards.com/2020/znr/en_O2BAL5fvzz.png",
+    50
+)
+znrCards[110-1] =  new Array(
+    "b",
+    "Malakir Blood-Priest",
+    "c",
+    "https://media.wizards.com/2020/znr/en_1jtDj1WgF9.png",
+    80
+)
+znrCards[111-1] =  new Array(
+    "b",
+    "Malakir Rebirth",
+    "u",
+    "https://media.wizards.com/2020/znr/en_iUkzrycpQ4.png",
+    90
+)
+znrCards[112-1] =  new Array(
+    "b",
+    "Marauding Blight-Priest",
+    "c",
+    "https://media.wizards.com/2020/znr/en_CK5nQznBbr.png",
+    90
+)
+znrCards[113-1] =  new Array(
+    "b",
+    "Mind Carver",
+    "u",
+    "https://media.wizards.com/2020/znr/en_JEGsw86qL3.png",
+    90
+)
+znrCards[114-1] =  new Array(
+    "b",
+    "Mind Drain",
+    "c",
+    "https://media.wizards.com/2020/znr/en_lsbGWJUPNP.png",
+    70
+)
+znrCards[115-1] =  new Array(
+    "b",
+    "Nighthawk Scavenger",
+    "r",
+    "https://media.wizards.com/2020/znr/en_p6Tpg43ngb.png",
+    130
+)
+znrCards[116-1] =  new Array(
+    "b",
+    "Nimana Skitter-Sneak",
+    "c",
+    "https://media.wizards.com/2020/znr/en_3CmSBUveVd.png",
+    60
+)
+znrCards[117-1] =  new Array(
+    "b",
+    "Nimana Skydancer",
+    "c",
+    "https://media.wizards.com/2020/znr/en_G1eWFIowIZ.png",
+    80
+)
+znrCards[118-1] =  new Array(
+    "b",
+    "Nullpriest of Oblivion",
+    "r",
+    "https://media.wizards.com/2020/znr/en_enI5Ht0jw9.png",
+    120
+)
+znrCards[119-1] =  new Array(
+    "b",
+    "Oblivion's Hunger",
+    "c",
+    "https://media.wizards.com/2020/znr/en_ZREi4I785b.png",
+    50
+)
+znrCards[120-1] =  new Array(
+    "b",
+    "Pelakka Predation",
+    "u",
+    "https://media.wizards.com/2020/znr/en_2e1crFus7y.png",
+    80
+)
+znrCards[121-1] =  new Array(
+    "b",
+    "Scion of the Swarm",
+    "u",
+    "https://media.wizards.com/2020/znr/en_XcHJMJcBjt.png",
+    100
+)
+znrCards[122-1] =  new Array(
+    "b",
+    "Scourge of the Skyclaves",
+    "m",
+    "https://media.wizards.com/2020/znr/en_EWnx7f4aBQ.png",
+    100
+)
+znrCards[123-1] =  new Array(
+    "b",
+    "Shadow Stinger",
+    "u",
+    "https://media.wizards.com/2020/znr/en_KGE9QubAho.png",
+    70
+)
+znrCards[124-1] =  new Array(
+    "b",
+    "Shadows' Verdict",
+    "r",
+    "https://media.wizards.com/2020/znr/en_6tPZTmFVji.png",
+    70
+)
+znrCards[125-1] =  new Array(
+    "b",
+    "Skyclave Shade",
+    "r",
+    "https://media.wizards.com/2020/znr/en_IZVUlvcCGb.png",
+    110
+)
+znrCards[126-1] =  new Array(
+    "b",
+    "Skyclave Shadowcat",
+    "u",
+    "https://media.wizards.com/2020/znr/en_e224vU1uxA.png",
+    110
+)
+znrCards[127-1] =  new Array(
+    "b",
+    "Soul Shatter",
+    "r",
+    "https://media.wizards.com/2020/znr/en_dmZIUnlgyT.png",
+    120
+)
+znrCards[128-1] =  new Array(
+    "b",
+    "Subtle Strike",
+    "c",
+    "https://media.wizards.com/2020/znr/en_MTOPOtvFoV.png",
+    80
+)
+znrCards[129-1] =  new Array(
+    "b",
+    "Taborax, Hope's Demise",
+    "r",
+    "https://media.wizards.com/2020/znr/en_JTQaiLLwDC.png",
+    130
+)
+znrCards[130-1] =  new Array(
+    "b",
+    "Thwart the Grave",
+    "u",
+    "https://media.wizards.com/2020/znr/en_lGhXIYm6Yd.png",
+    110
+)
+znrCards[131-1] =  new Array(
+    "b",
+    "Vanquish the Weak",
+    "c",
+    "https://media.wizards.com/2020/znr/en_lzdPKCvBai.png",
+    80
+)
+znrCards[132-1] =  new Array(
+    "b",
+    "Zof Consumption",
+    "u",
+    "https://media.wizards.com/2020/znr/en_5mog4gRBMD.png",
+    80
+)
 
 //S  - 150
 //A+ - 140
