@@ -2,9 +2,12 @@ body {
     background-color: lightblue;
 }
 
+table {
+    padding: 0.25rem 0.0rem 0.25rem 0.5rem;
+}
+
 td {
     font-size: 0.75em;
-    padding: 0px 12px;
 }
 
 tr {
