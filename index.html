@@ -253,9 +253,9 @@
                     var checkBox = document.getElementById(checkID);
                     var div = document.getElementById(divID);
                     if (checkBox.checked == false){
-                        div.style.display = "none;";
+                        div.setAttribute("style","display:none;")
                     } else {
-                        div.style.display = "inline-block;";
+                        div.setAttribute("style","display:inline-block;")
                     }
                 }
             </script>
