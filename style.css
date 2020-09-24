@@ -39,6 +39,6 @@ td {
     background-color: #fffbd6;
 }
 
-#wColumn #uColumn #bColumn #rColumn #gColumn #cColumn{
+#wColumn, #uColumn, #bColumn, #rColumn, #gColumn, #cColumn{
     padding-top: 15px;
 }
