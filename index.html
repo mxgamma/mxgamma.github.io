@@ -129,33 +129,7 @@
 
         <script src="include/znr.js"></script>
         <script>
-            function createTable(tableData, tableColor) {
-                var tableBody = document.getElementById(tableColor);
-                    tableData.forEach(function(rowData) {
-                    var row = document.createElement('tr');
-                        row.setAttribute("data-toggle","popover");
-                        row.setAttribute("data-content","<img src='"+rowData[2]+"' />");
-                        var cell = document.createElement('td');
-                            var cardImage = document.createElement('img');
-                                cardImage.setAttribute("src","images/"+rowData[3]+"Icon.png")
-                                cell.appendChild(cardImage);
-                            var cardName = document.createTextNode(" "+rowData[0]);
-                                cell.appendChild(cardName);
-                            row.appendChild(cell);
-
-                        cell = document.createElement('td');
-                            cardScore = document.createTextNode(rowData[1]);
-                                cell.appendChild(cardScore);
-                            row.appendChild(cell);
-                        tableBody.appendChild(row);
-                    });
-            }
-            createTable(whiteCard,"wTableB");
-            createTable(blueCard,"uTableB");
-        </script>
-
-        <script>
-            function createTableB(tableData) {
+            function createTable(tableData) {
                 tableData.forEach(function(rowData) {
                     var cardColor = rowData[0];
                     var tableBody = document.getElementById(cardColor+"TableB");
@@ -177,7 +151,7 @@
                         tableBody.appendChild(row);
                     });
             }
-            createTableB(znrCards);
+            createTable(znrCards);
         </script>
 
 
