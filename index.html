@@ -321,7 +321,16 @@
                         var rows = document.getElementById("cTable").rows;
                         for(var i = 0; i < rows.length; i++){
                             if(rows[i].classList.contains(color+"Color")){
-                                rows[i].setAttribute("style","display:table-row");
+                                if( (rows[i].classList.contains("wColor") && !(document.getElementById("wCheck").checked))
+                                ||  (rows[i].classList.contains("uColor") && !(document.getElementById("uCheck").checked))
+                                ||  (rows[i].classList.contains("bColor") && !(document.getElementById("bCheck").checked))
+                                ||  (rows[i].classList.contains("rColor") && !(document.getElementById("rCheck").checked))
+                                ||  (rows[i].classList.contains("gColor") && !(document.getElementById("gCheck").checked))
+                                ){
+                                    
+                                }else{
+                                    rows[i].setAttribute("style","display:table-row");
+                                }
                             }
                         }
                     }
