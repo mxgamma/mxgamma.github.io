@@ -45,4 +45,5 @@ td {
 
 #wColumn, #uColumn, #bColumn, #rColumn, #gColumn, #cColumn{
     padding-top: 15px;
+    padding-bottom: 15px;
 }
