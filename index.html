@@ -11,8 +11,12 @@
             Zendikar Rising Limited Tier List
         </div>
         <div class="container-fluid bg-dark text-white">
+            <strong>Filters: </strong>
             <img src="images/wMana.png"/>
             <input type="checkbox" id="wCheck" checked onclick="showHide('wCheck','wColumn')">
+            <strong> - - </strong>
+            <img src="images/uMana.png"/>
+            <input type="checkbox" id="uCheck" checked onclick="showHide('uCheck','uColumn')">
         </div>
         <div class="container-fluid bg-white px-50 pt-50">
             <div class="row">
@@ -32,12 +36,13 @@
                 </div>
 
                 <!-- Blue Table -->
-                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border">
+                <div class="col-12 col-md-6 col-lg-4 col-xl-2 border" id="uColumn" style="display:inline-block;">
                     <table class="table table-hover" id="uTable">
                         <thead>
                             <tr>
-                                <th>Card</th>
-                                <th style="text-align:center">Score</th>
+                                <th></th>
+                                <th onclick="sortTable('uTable')">Card</th>
+                                <th onclick="autoSortTable('uTable')" style="text-align:center">Score</th>
                             </tr>
                         </thead>
                         <tbody id="uTableB">
