@@ -923,6 +923,315 @@ znrCards[132-1] =  new Array(
     "https://media.wizards.com/2020/znr/en_5mog4gRBMD.png",
     80
 )
+znrCards[133-1] =  new Array(
+    "r",
+    "Akoum Hellhound",
+    "c",
+    "https://media.wizards.com/2020/znr/en_1a4YVyBovq.png",
+    50
+)
+znrCards[134-1] =  new Array(
+    "r",
+    "Akoum Warrior",
+    "u",
+    "https://media.wizards.com/2020/znr/en_VaSx3Atwby.png",
+    90
+)
+znrCards[135-1] =  new Array(
+    "r",
+    "Ardent Electromancer",
+    "c",
+    "https://media.wizards.com/2020/znr/en_GRO0WWROI0.png",
+    70
+)
+znrCards[136-1] =  new Array(
+    "r",
+    "Cinderclasm",
+    "u",
+    "https://media.wizards.com/2020/znr/en_h5vuhMdY2p.png",
+    90
+)
+znrCards[137-1] =  new Array(
+    "r",
+    "Cleansing Wildfire",
+    "c",
+    "https://media.wizards.com/2020/znr/en_uEK6D76cXc.png",
+    50
+)
+znrCards[138-1] =  new Array(
+    "r",
+    "Expedition Champion",
+    "c",
+    "https://media.wizards.com/2020/znr/en_i2bmkNpRk3.png",
+    80
+)
+znrCards[139-1] =  new Array(
+    "r",
+    "Fireblade Charger",
+    "u",
+    "https://media.wizards.com/2020/znr/en_qTxLLUMpLm.png",
+    80
+)
+znrCards[140-1] =  new Array(
+    "r",
+    "Fissure Wizard",
+    "c",
+    "https://media.wizards.com/2020/znr/en_WHkXyxfaZo.png",
+    70
+)
+znrCards[141-1] =  new Array(
+    "r",
+    "Goma Fada Vanguard",
+    "u",
+    "https://media.wizards.com/2020/znr/en_oXjXPIGRY8.png",
+    80
+)
+znrCards[142-1] =  new Array(
+    "r",
+    "Grotag Bug-Catcher",
+    "c",
+    "https://media.wizards.com/2020/znr/en_n6cwb4MP6C.png",
+    60
+)
+znrCards[143-1] =  new Array(
+    "r",
+    "Grotag Night-Runner",
+    "u",
+    "https://media.wizards.com/2020/znr/en_aY1YkZSjFn.png",
+    80
+)
+znrCards[144-1] =  new Array(
+    "r",
+    "Inordinate Rage",
+    "c",
+    "https://media.wizards.com/2020/znr/en_90XRP6KjxW.png",
+    50
+)
+znrCards[145-1] =  new Array(
+    "r",
+    "Kargan Intimidator",
+    "r",
+    "https://media.wizards.com/2020/znr/en_9geMFOeJlt.png",
+    90
+)
+znrCards[146-1] =  new Array(
+    "r",
+    "Kazuul's Fury",
+    "u",
+    "https://media.wizards.com/2020/znr/en_zhz2Xh6md4.png",
+    90
+)
+znrCards[147-1] =  new Array(
+    "r",
+    "Leyline Tyrant",
+    "m",
+    "https://media.wizards.com/2020/znr/en_S9AQDSojap.png",
+    140
+)
+znrCards[148-1] =  new Array(
+    "r",
+    "Magmatic Channeler",
+    "r",
+    "https://media.wizards.com/2020/znr/en_kKKtZ5O9UN.png",
+    100
+)
+znrCards[149-1] =  new Array(
+    "r",
+    "Molten Blast",
+    "c",
+    "https://media.wizards.com/2020/znr/en_WiNiT8dnNn.png",
+    70
+)
+znrCards[150-1] =  new Array(
+    "r",
+    "Moraug, Fury of Akoum",
+    "m",
+    "https://media.wizards.com/2020/znr/en_BpgSK4f4a2.png",
+    130
+)
+znrCards[151-1] =  new Array(
+    "r",
+    "Nahiri's Lithoforming",
+    "r",
+    "https://media.wizards.com/2020/znr/en_bfjcGNanxq.png",
+    30
+)
+znrCards[152-1] =  new Array(
+    "r",
+    "Pyroclastic Hellion",
+    "c",
+    "https://media.wizards.com/2020/znr/en_64F9SigbQ2.png",
+    70
+)
+znrCards[153-1] =  new Array(
+    "r",
+    "Relic Robber",
+    "r",
+    "https://media.wizards.com/2020/znr/en_rSkLbGxegC.png",
+    70
+)
+znrCards[154-1] =  new Array(
+    "r",
+    "Rockslide Sorcerer",
+    "u",
+    "https://media.wizards.com/2020/znr/en_7uBIXWThvA.png",
+    90
+)
+znrCards[155-1] =  new Array(
+    "r",
+    "Roil Eruption",
+    "c",
+    "https://media.wizards.com/2020/znr/en_0ntCX96igv.png",
+    100
+)
+znrCards[156-1] =  new Array(
+    "r",
+    "Roiling Vortex",
+    "r",
+    "https://media.wizards.com/2020/znr/en_PveYJ2FoA1.png",
+    30
+)
+znrCards[157-1] =  new Array(
+    "r",
+    "Scavenged Blade",
+    "c",
+    "https://media.wizards.com/2020/znr/en_ICR4NjGctC.png",
+    70
+)
+znrCards[158-1] =  new Array(
+    "r",
+    "Scorch Rider",
+    "c",
+    "https://media.wizards.com/2020/znr/en_HLCJVWKHgX.png",
+    50
+)
+znrCards[159-1] =  new Array(
+    "r",
+    "Shatterskull Charger",
+    "r",
+    "https://media.wizards.com/2020/znr/en_yaOFIW9kyT.png",
+    90
+)
+znrCards[160-1] =  new Array(
+    "r",
+    "Shatterskull Minotaur",
+    "u",
+    "https://media.wizards.com/2020/znr/en_QdPjlotviP.png",
+    90
+)
+znrCards[161-1] =  new Array(
+    "r",
+    "Shatterskull Smashing",
+    "m",
+    "https://media.wizards.com/2020/znr/en_G2gBShFmWP.png",
+    130
+)
+znrCards[162-1] =  new Array(
+    "r",
+    "Sizzling Barrage",
+    "c",
+    "https://media.wizards.com/2020/znr/en_jiUxyTJ7gf.png",
+    30
+)
+znrCards[163-1] =  new Array(
+    "r",
+    "Skyclave Geopede",
+    "u",
+    "https://media.wizards.com/2020/znr/en_1N9YIv0sSM.png",
+    90
+)
+znrCards[164-1] =  new Array(
+    "r",
+    "Sneaking Guide",
+    "c",
+    "https://media.wizards.com/2020/znr/en_dHuV7r2Xe9.png",
+    40
+)
+znrCards[165-1] =  new Array(
+    "r",
+    "Song-Mad Treachery",
+    "u",
+    "https://media.wizards.com/2020/znr/en_fH4nXVDDFr.png",
+    90
+)
+znrCards[166-1] =  new Array(
+    "r",
+    "Spikefield Hazard",
+    "u",
+    "https://media.wizards.com/2020/znr/en_eipO2w8S2S.png",
+    80
+)
+znrCards[167-1] =  new Array(
+    "r",
+    "Spitfire Lagac",
+    "c",
+    "https://media.wizards.com/2020/znr/en_ttN8UPPGoD.png",
+    60
+)
+znrCards[168-1] =  new Array(
+    "r",
+    "Synchronized Spellcraft",
+    "c",
+    "hthttps://media.wizards.com/2020/znr/en_ISGIBVHplp.png",
+    70
+)
+znrCards[169-1] =  new Array(
+    "r",
+    "Teeterpeak Ambusher",
+    "c",
+    "https://media.wizards.com/2020/znr/en_8elt2glI1v.png",
+    50
+)
+znrCards[170-1] =  new Array(
+    "r",
+    "Thundering Rebuke",
+    "u",
+    "https://media.wizards.com/2020/znr/en_HdpdyyXq1H.png",
+    100
+)
+znrCards[171-1] =  new Array(
+    "r",
+    "Thundering Sparkmage",
+    "u",
+    "https://media.wizards.com/2020/znr/en_F0yTDcx2nk.png",
+    90
+)
+znrCards[172-1] =  new Array(
+    "r",
+    "Tormenting Voice",
+    "c",
+    "https://media.wizards.com/2020/znr/en_oMpF2NT9LA.png",
+    40
+)
+znrCards[173-1] =  new Array(
+    "r",
+    "Tuktuk Rubblefort",
+    "c",
+    "https://media.wizards.com/2020/znr/en_2gce0EmBYl.png",
+    30
+)
+znrCards[174-1] =  new Array(
+    "r",
+    "Valakut Awakening",
+    "r",
+    "https://media.wizards.com/2020/znr/en_P1GRGFp4Tw.png",
+    100
+)
+znrCards[175-1] =  new Array(
+    "r",
+    "Valakut Exploration",
+    "r",
+    "https://media.wizards.com/2020/znr/en_BHbPZv9vLi.png",
+    100
+)
+znrCards[176-1] =  new Array(
+    "r",
+    "Wayward Guide-Beast",
+    "r",
+    "https://media.wizards.com/2020/znr/en_KIegV4ECLr.png",
+    30
+)
+
 
 //S  - 150
 //A+ - 140
