@@ -188,6 +188,7 @@
                                     }
                                     var cardColor = document.createElement('img');
                                     cardColor.setAttribute("src","images/"+rowData[n]+"Mana.png");
+                                    row.classList.add(rowData[n]+'Color');
                                     cell.appendChild(cardColor);
                                 }
                             row.appendChild(cell);
