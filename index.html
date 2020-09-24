@@ -11,7 +11,8 @@
             Zendikar Rising Limited Tier List
         </div>
         <div class="container-fluid bg-dark text-white">
-            Filters
+            <img src="images/wMana.png"/>
+            <input type="checkbox" id="wCheck" onclick="showHide('wCheck','wTable')">
         </div>
         <div class="container-fluid bg-white px-50 pt-50">
             <div class="row">
@@ -246,5 +247,18 @@
                 }
             }
             </script>
+
+            <script>
+                function showHide(checkID,tableID) {
+                    var checkBox = document.getElementById(checkID);
+                    var table = document.getElementById(tableID);
+                    if (checkBox.checked == true){
+                        table.style.display = "block";
+                    } else {
+                        table.style.display = "hidden";
+                    }
+                }
+            </script>
+
     </body>
 </html>
