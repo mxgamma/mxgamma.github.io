@@ -1691,7 +1691,9 @@ znrCards[242-1] =  new Array(
     "Zareth San, the Trickster",
     "r",
     "https://media.wizards.com/2020/znr/en_gAKHdkkM8f.png",
-    140
+    140,
+    "u",
+    "b"
 )
 
 //S  - 150
