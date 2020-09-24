@@ -21,7 +21,7 @@
                         <thead>
                             <tr>
                                 <th onclick="sortTable(0,'wTable')">Card</th>
-                                <th onclick="sortTable(1,'wTable')">Score</th>
+                                <th onclick="autoSortTable('wTable')">Score</th>
                             </tr>
                         </thead>
                         <tbody id="wTableB">
@@ -131,6 +131,9 @@
                             var cardImage = document.createElement('img');
                                 cardImage.setAttribute("src","images/"+rowData[2]+"Icon.png")
                                 cell.appendChild(cardImage);
+                                row.appendChild(cell);
+                        
+                        cell = document.createElement('td');        
                             var cardName = document.createTextNode(" "+rowData[1]);
                                 cell.appendChild(cardName);
                             row.appendChild(cell);
