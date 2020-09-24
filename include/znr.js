@@ -78,17 +78,17 @@ znrCards[10] =  new Array(
 )
 znrCards[11] =  new Array(
     "w",
-    "Expedition Healer",
-    "c",
-    "https://media.wizards.com/2020/znr/en_PEE36Frslq.png",
-    80
-)
-znrCards[12] =  new Array(
-    "w",
     "Emeria's Call",
     "m",
     "https://media.wizards.com/2020/znr/en_UYhm8ThgSr.png",
     10
+)
+znrCards[12] =  new Array(
+    "w",
+    "Expedition Healer",
+    "c",
+    "https://media.wizards.com/2020/znr/en_PEE36Frslq.png",
+    80
 )
 znrCards[13] =  new Array(
     "w",
@@ -111,8 +111,21 @@ znrCards[15] =  new Array(
     "https://media.wizards.com/2020/znr/en_jXPJ8Cx6vI.png",
     30
 )
-
-znrCards[19] =  new Array(
+znrCards[16] =  new Array(
+    "w",
+    "Journey to Oblivion",
+    "u",
+    "https://media.wizards.com/2020/znr/en_w0kjo0hvtH.png",
+    50
+)
+znrCards[17] =  new Array(
+    "w",
+    "Kabira Outrider",
+    "c",
+    "https://media.wizards.com/2020/znr/en_G0IqIOqExD.png",
+    100
+)
+znrCards[18] =  new Array(
     "w",
     "Kabira Takedown",
     "u",
@@ -120,7 +133,7 @@ znrCards[19] =  new Array(
     80
 )
 
-znrCards[26] =  new Array(
+znrCards[25] =  new Array(
     "w",
     "Makindi Stampede",
     "u",
@@ -128,7 +141,7 @@ znrCards[26] =  new Array(
     80
 )
 
-znrCards[30] =  new Array(
+znrCards[29] =  new Array(
     "w",
     "Ondu Inversion",
     "r",
@@ -136,7 +149,7 @@ znrCards[30] =  new Array(
     90
 )
 
-znrCards[37] =  new Array(
+znrCards[36] =  new Array(
     "w",
     "Sejiri Shelter",
     "u",
@@ -144,7 +157,7 @@ znrCards[37] =  new Array(
     70
 )
 
-znrCards[40] =  new Array(
+znrCards[39] =  new Array(
     "w",
     "Skyclave Cleric",
     "u",
