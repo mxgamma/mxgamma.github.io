@@ -161,9 +161,8 @@
                     var row = document.createElement('tr');
                         row.setAttribute("data-toggle","popover");
                         row.setAttribute("data-content","<img src='"+rowData[3]+"' />");
-                        row.setAttribute("style","height:20px");
+                        row.setAttribute("style","display:inline-block");
                         var cell = document.createElement('td');
-                            cell.setAttribute("style","width:20px");
                             var cardImage = document.createElement('img');
                                 cardImage.setAttribute("src","images/"+rowData[2]+"Icon.png");
                                 cell.appendChild(cardImage);
